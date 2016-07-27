@@ -3,4 +3,10 @@ A simple Python bot that uses the Tinder API and Pynder wrapper to automatically
 The bot will record liked users and their Instagram usernames in a log. 
 
 # Usage
-Input your numerical Facebook ID and authentication token into config.py and run the program from any CLI.
+Input your numerical Facebook ID and authentication token into config.py.  
+
+Run bot.py from your command line.
+
+# Dependencies
+
+Pynder: https://github.com/charliewolf/pynder
