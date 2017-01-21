@@ -1,4 +1,6 @@
 # Tinder Bot
+Previous method that the Tinder bot used is now depreciated, switched to Pynder as API client instead.
+
 A simple Python bot that uses the Tinder API and Pynder to automatically like local users. The bot logs all swipes under 'bot.log' with the user's name, age, school and Instagram handle. 
 
 
